@@ -19,7 +19,8 @@ brew install helm
 ```
 
 kubectl
-```brew install kubectl
+```
+brew install kubectl
 ```
 
 Trino Helm Chart
